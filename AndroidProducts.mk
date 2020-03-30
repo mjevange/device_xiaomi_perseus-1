@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_perseus.mk
+    $(LOCAL_DIR)/aosip_perseus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_perseus-user \
-    lineage_perseus-userdebug \
-    lineage_perseus-eng
+    aosip_perseus-user \
+    aosip_perseus-userdebug \
+    aosip_perseus-eng
